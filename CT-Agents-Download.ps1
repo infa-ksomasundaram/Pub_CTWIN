@@ -1,0 +1,2 @@
+﻿powershell.exe "c:\temp\azcopy.exe copy 'https://ctubi.blob.core.windows.net/ctwin-build/CT-Agent.zip?sp=r&st=2023-10-25T07:02:43Z&se=2023-10-30T15:02:43Z&sv=2022-11-02&sr=b&sig=f%2BHpS3b8X92f1aau6iQua3M%2B8pGjSIM2LHHLUfWlugs%3D' 'C:/temp/CT-Agents/CT-Agent.zip'"
+Expand-Archive 'C:/temp/CT-Agents/CT-Agent.zip' 'C:/temp/CT-Agents'

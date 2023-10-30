@@ -1,0 +1,1 @@
+msiexec /i C:\temp\CT-Agents\CT-Agent\Cortex-XDR\infa-commercial-cortex-xdr-windows-772_x64.msi /l*v C:\temp\cortexxdrinstall.log /qn
